@@ -3,16 +3,6 @@
 
 ## create project setup
 
-## Github codespaces setup
-   1. Makefile
-   2. Requiremnts.txt
-   3. __init__.py file
-   4. test_library.py
-   5. pythonLibrary.py
-   6. command-line tool
-   7. microservice architecutre
-  
-   
-## aws cloud shell tools
-## aws cloud9
-## command line tools 
+1.Create virtual env: 'python -m venv ~/.venv'
+2.Create empty files : 'Makefile',"dockerfile","main.py","mylib","requirements.txt"
+3 Populate Makefile
