@@ -6,8 +6,10 @@
 ## create project setup
 
 1.Create virtual env: 'python -m venv ~/.venv'
+
 2.Create empty files : 'Makefile',"dockerfile","main.py","mylib","requirements.txt"
-3 Populate Makefile
+
+3.Populate Makefile
 
 
 4. continuos integration lint erros while merging request , check code for issues like this.
