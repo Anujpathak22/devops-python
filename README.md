@@ -11,7 +11,7 @@
 
 3.Populate Makefile
 
+4.continuos integration lint erros while merging request , check code for issues like this.
 
-4. continuos integration lint erros while merging request , check code for issues like this.
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/84982825/221431784-b238afca-be72-42f9-9e9f-a38666634cc6.png">
 
